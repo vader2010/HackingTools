@@ -1,0 +1,5 @@
+site - looks at a certain site
+inurl - search by the webpage url
+intext - search by the webpage text
+intitle - search by the title
+filetype - search by the file
